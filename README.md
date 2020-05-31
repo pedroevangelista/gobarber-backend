@@ -1,4 +1,4 @@
-# Recuperação de senha
+# GoBarber
 
 **RF (Requisitos Funcionais)**
 
