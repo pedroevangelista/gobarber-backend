@@ -1,4 +1,6 @@
-# GoBarber
+# GoBarber App
+
+## Recuperação de senha
 
 **RF (Requisitos Funcionais)**
 
@@ -19,7 +21,7 @@
 - O usuário precisa confirmar a nova senha ao resetar;
 
 
-# Atualização do perfil
+## Atualização do perfil
 
 **RF (Requisitos Funcionais)**
 
@@ -31,7 +33,7 @@
 - Para atualizar sua senha, o usuário deve informar a senha antiga;
 - Para atualizar sua senha, o usuário previsa confirmar a nova senha;
 
-# Painel do prestador
+## Painel do prestador
 
 **RF (Requisitos Funcionais)**
 
@@ -49,7 +51,7 @@
 
 - A notificação deve ter um status de lida ou não-lida para que o prestador possa controlar;
 
-# Agendamento de serviços
+## Agendamento de serviços
 
 **RF (Requisitos Funcionais)**
 
